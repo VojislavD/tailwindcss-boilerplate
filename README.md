@@ -4,10 +4,10 @@ Boilerplate for Tailwind CSS project.
 
 ## Versions
 <ul>
-    <li>Autoprefixer: 10.4.0</li>
-    <li>Postcss: 8.3.11</li>
-    <li>Tailwindcss: 2.2.19</li>
-    <li>Vite: 2.6.13</li>
+    <li>Autoprefixer: 10.4.13</li>
+    <li>Postcss: 8.4.21</li>
+    <li>Tailwindcss: 3.2.7</li>
+    <li>Vite: 4.1.4</li>
 </ul>
 
 ## How to use
